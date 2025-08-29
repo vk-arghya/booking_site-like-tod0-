@@ -1,0 +1,16 @@
+{
+  "name": "booking-system-backend",
+  "version": "1.0.0",
+  "description": "Backend for a simple booking system using Express and Mongoose with MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0"
+  }
+}
